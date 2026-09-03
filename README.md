@@ -6,9 +6,15 @@ Solutions to All the Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
