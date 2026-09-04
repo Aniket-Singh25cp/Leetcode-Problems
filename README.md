@@ -7,6 +7,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3903-smallest-stable-index-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -22,4 +23,12 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
