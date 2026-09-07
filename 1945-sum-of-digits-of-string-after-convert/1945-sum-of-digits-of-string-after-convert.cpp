@@ -6,7 +6,7 @@ public:
             int val = c - 'a' + 1;
             sum += (val % 10) + (val / 10);
         }
-        while(--k > 0){
+        while(k-- > 1){
             int new_sum = 0;
             while(sum > 0){
                 new_sum += sum % 10;
