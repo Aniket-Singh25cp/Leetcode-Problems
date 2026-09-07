@@ -52,6 +52,7 @@ Solutions to All the Leetcode Problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## Enumeration
