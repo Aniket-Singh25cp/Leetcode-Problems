@@ -33,6 +33,7 @@ Solutions to All the Leetcode Problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## Enumeration
@@ -72,4 +75,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
