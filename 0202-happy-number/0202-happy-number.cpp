@@ -13,7 +13,7 @@ public:
         int b = squareNum(n);
         while (b!=1 && a!=b){
             a = squareNum(a);
-            b = squareNum(squareNum(b)); //Floyd's Cycle FInding Algorithm
+            b = squareNum(squareNum(b)); //Floyd's Cycle Finding Algorithm
             // if a number is stuck in loop; a moves 1 step and b moves 2 step
             // if they are in a loop then b will crash into a 
             //Also called the Hare-Tortoise Algorithm
