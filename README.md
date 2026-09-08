@@ -66,6 +66,7 @@ Solutions to All the Leetcode Problems
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0866-prime-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
@@ -80,6 +81,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
@@ -110,6 +112,7 @@ Solutions to All the Leetcode Problems
 | ------- |
 | [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0866-prime-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
