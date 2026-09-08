@@ -65,6 +65,7 @@ Solutions to All the Leetcode Problems
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
+| [3870-count-commas-in-range](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
 | ------- |
