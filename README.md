@@ -15,6 +15,7 @@ Solutions to All the Leetcode Problems
 | [0875-koko-eating-bananas](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [3903-smallest-stable-index-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -75,6 +76,7 @@ Solutions to All the Leetcode Problems
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
+| [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [3870-count-commas-in-range](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
@@ -92,6 +94,7 @@ Solutions to All the Leetcode Problems
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -143,4 +146,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1952-three-divisors) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
