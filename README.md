@@ -10,6 +10,7 @@ Solutions to All the Leetcode Problems
 | [0011-container-with-most-water](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0875-koko-eating-bananas](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3903-smallest-stable-index-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
@@ -61,6 +62,7 @@ Solutions to All the Leetcode Problems
 | [0007-reverse-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
@@ -69,10 +71,12 @@ Solutions to All the Leetcode Problems
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
@@ -98,4 +102,16 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0278-first-bad-version) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
