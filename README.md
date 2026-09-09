@@ -78,6 +78,7 @@ Solutions to All the Leetcode Problems
 | [2485-find-the-pivot-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [3870-count-commas-in-range](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
