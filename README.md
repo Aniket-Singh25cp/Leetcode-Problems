@@ -77,6 +77,7 @@ Solutions to All the Leetcode Problems
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
@@ -96,6 +97,7 @@ Solutions to All the Leetcode Problems
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Euclidean Algorithm
 |  |
 | ------- |
