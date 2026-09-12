@@ -11,6 +11,7 @@ Solutions to All the Leetcode Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -48,6 +49,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,4 +157,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
