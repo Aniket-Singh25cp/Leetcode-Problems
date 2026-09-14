@@ -4,7 +4,7 @@ class Solution {
         for(int x : candies){
             maxx = Math.max(x,maxx);
         }
-        List<Boolean> res = new ArrayList<>();
+        ArrayList<Boolean> res = new ArrayList<>();
         for(int x : candies){
             if(x + extraCandies >= maxx){
                 res.add(true);
