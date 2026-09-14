@@ -49,6 +49,7 @@ Solutions to All the Leetcode Problems
 | [0011-container-with-most-water](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
@@ -69,6 +70,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
