@@ -75,6 +75,7 @@ Solutions to All the Leetcode Problems
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1952-three-divisors) |
@@ -163,4 +164,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
