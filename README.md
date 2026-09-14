@@ -16,6 +16,7 @@ Solutions to All the Leetcode Problems
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
@@ -49,6 +50,7 @@ Solutions to All the Leetcode Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -174,4 +176,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
