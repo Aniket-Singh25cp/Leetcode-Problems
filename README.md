@@ -17,6 +17,7 @@ Solutions to All the Leetcode Problems
 | [0875-koko-eating-bananas](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
