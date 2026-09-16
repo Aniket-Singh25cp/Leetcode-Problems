@@ -12,6 +12,7 @@ Solutions to All the Leetcode Problems
 | [0027-remove-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -193,6 +194,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
