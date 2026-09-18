@@ -115,6 +115,7 @@ Solutions to All the Leetcode Problems
 | [0866-prime-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -190,6 +191,7 @@ Solutions to All the Leetcode Problems
 | [0136-single-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0136-single-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
 |  |
 | ------- |
