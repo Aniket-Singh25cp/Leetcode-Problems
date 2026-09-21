@@ -99,6 +99,7 @@ Solutions to All the Leetcode Problems
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3019-number-of-changing-keys) |
 ## Sliding Window
 |  |
 | ------- |
