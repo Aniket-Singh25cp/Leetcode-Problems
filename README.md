@@ -31,6 +31,7 @@ Solutions to All the Leetcode Problems
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -131,6 +132,7 @@ Solutions to All the Leetcode Problems
 | [2652-sum-multiples](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3871-count-commas-in-range-ii) |
