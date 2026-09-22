@@ -5,7 +5,6 @@ class Solution {
             if(nums[i] < 10) onesSum += nums[i];
             else doubleSum += nums[i];
         }
-        if(onesSum == doubleSum) return false;
-        return true;
+        return onesSum != doubleSum;
     }
 }
