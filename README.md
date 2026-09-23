@@ -23,6 +23,7 @@ Solutions to All the Leetcode Problems
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -46,6 +47,7 @@ Solutions to All the Leetcode Problems
 | [0367-valid-perfect-square](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Solutions to All the Leetcode Problems
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -85,6 +88,7 @@ Solutions to All the Leetcode Problems
 | [0383-ransom-note](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -108,6 +112,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
