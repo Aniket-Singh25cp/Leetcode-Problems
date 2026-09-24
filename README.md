@@ -25,6 +25,7 @@ Solutions to All the Leetcode Problems
 | [1470-shuffle-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -227,6 +228,7 @@ Solutions to All the Leetcode Problems
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 ## Dynamic Programming
 |  |
