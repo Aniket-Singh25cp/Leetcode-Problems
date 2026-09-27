@@ -113,6 +113,7 @@ Solutions to All the Leetcode Problems
 | [0383-ransom-note](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
+| [0657-robot-return-to-origin](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -196,6 +197,7 @@ Solutions to All the Leetcode Problems
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
