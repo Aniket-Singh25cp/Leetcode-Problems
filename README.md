@@ -25,6 +25,7 @@ Solutions to All the Leetcode Problems
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1550-three-consecutive-odds](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
