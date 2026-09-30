@@ -13,6 +13,7 @@ Solutions to All the Leetcode Problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -78,6 +79,7 @@ Solutions to All the Leetcode Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -263,6 +265,7 @@ Solutions to All the Leetcode Problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -313,4 +316,12 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
