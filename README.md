@@ -54,6 +54,7 @@ Solutions to All the Leetcode Problems
 | [0278-first-bad-version](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -139,6 +140,7 @@ Solutions to All the Leetcode Problems
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
