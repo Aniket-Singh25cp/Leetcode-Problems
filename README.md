@@ -111,6 +111,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -310,11 +311,13 @@ Solutions to All the Leetcode Problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
