@@ -112,6 +112,7 @@ Solutions to All the Leetcode Problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -255,6 +256,7 @@ Solutions to All the Leetcode Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -318,6 +320,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
@@ -327,4 +330,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
