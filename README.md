@@ -66,6 +66,7 @@ Solutions to All the Leetcode Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0190-reverse-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
