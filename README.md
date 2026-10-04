@@ -42,6 +42,7 @@ Solutions to All the Leetcode Problems
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -109,6 +110,7 @@ Solutions to All the Leetcode Problems
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2965-find-missing-and-repeated-values](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
@@ -168,6 +170,7 @@ Solutions to All the Leetcode Problems
 | [2652-sum-multiples](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -259,6 +262,7 @@ Solutions to All the Leetcode Problems
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
