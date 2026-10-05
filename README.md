@@ -97,6 +97,7 @@ Solutions to All the Leetcode Problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
+| [1927-sum-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Solutions to All the Leetcode Problems
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -160,6 +162,7 @@ Solutions to All the Leetcode Problems
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -345,4 +348,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
