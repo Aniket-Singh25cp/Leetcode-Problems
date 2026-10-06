@@ -45,6 +45,7 @@ Solutions to All the Leetcode Problems
 | [2965-find-missing-and-repeated-values](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -92,6 +93,7 @@ Solutions to All the Leetcode Problems
 | [0541-reverse-string-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Solutions to All the Leetcode Problems
 | [1920-build-array-from-permutation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2974-minimum-number-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Interactive
 |  |
