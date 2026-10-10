@@ -105,6 +105,7 @@ Solutions to All the Leetcode Problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -123,6 +124,7 @@ Solutions to All the Leetcode Problems
 | [0022-generate-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0383-ransom-note) |
