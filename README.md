@@ -17,6 +17,7 @@ Solutions to All the Leetcode Problems
 | [0118-pascals-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -69,6 +70,7 @@ Solutions to All the Leetcode Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0190-reverse-bits) |
 ## Prefix Sum
 |  |
@@ -105,6 +107,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -266,6 +269,7 @@ Solutions to All the Leetcode Problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -297,6 +301,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -372,4 +377,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0458-poor-pigs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
