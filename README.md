@@ -51,6 +51,7 @@ Solutions to All the Leetcode Problems
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -103,6 +104,7 @@ Solutions to All the Leetcode Problems
 | [0011-container-with-most-water](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1927-sum-game) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -307,6 +309,7 @@ Solutions to All the Leetcode Problems
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3024-type-of-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
 |  |
 | ------- |
