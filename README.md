@@ -160,6 +160,7 @@ Solutions to All the Leetcode Problems
 | [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0441-arranging-coins) |
+| [0458-poor-pigs](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
@@ -286,6 +287,7 @@ Solutions to All the Leetcode Problems
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0458-poor-pigs](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
@@ -366,4 +368,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1927-sum-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
