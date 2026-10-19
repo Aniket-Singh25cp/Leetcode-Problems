@@ -39,6 +39,7 @@ Solutions to All the Leetcode Problems
 | [1920-build-array-from-permutation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -71,6 +72,7 @@ Solutions to All the Leetcode Problems
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -318,6 +320,7 @@ Solutions to All the Leetcode Problems
 | [0242-valid-anagram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
