@@ -1,19 +1,30 @@
 class Solution {
 public:
+    int maxElement(vector<int>& v){
+        int maxx = INT_MIN;
+        for(int x : v){
+            maxx = max(maxx, x);
+        }
+        return maxx;
+    }
+    long long timeTaken(vector<int>& v, int n){
+        long long time = 0;
+        for(int i = 0; i < v.size(); i++){
+            time += (v[i] + n - 1LL) / n;
+        }
+        return time;
+    }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int start = 1, end = *max_element(piles.begin(), piles.end());
-        int ans = end;
-        while(start <= end){
-            int mid = start + (end - start) / 2;
-            long long hours = 0;
-            for(int x : piles){
-                hours += (x + mid - 1)/ mid;
-            }
-            if(hours > h){
-                start = mid + 1;
-            }else if(hours<=h){
+        long long left = 1, right = maxElement(piles);
+        int ans = -1;
+        while(left <= right){
+            long long mid = left + (right - left) / 2;
+            long long total = timeTaken(piles, mid);
+            if(total <= h){
                 ans = mid;
-                end = mid - 1;
+                right = mid - 1;
+            }else{
+                left = mid + 1;
             }
         }
         return ans;
