@@ -161,6 +161,7 @@ Solutions to All the Leetcode Problems
 | [2942-find-words-containing-character](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
