@@ -126,6 +126,7 @@ Solutions to All the Leetcode Problems
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -148,6 +149,7 @@ Solutions to All the Leetcode Problems
 | [0344-reverse-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0709-to-lower-case) |
@@ -289,6 +291,7 @@ Solutions to All the Leetcode Problems
 | [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Prime Factorization
 |  |
@@ -321,6 +324,7 @@ Solutions to All the Leetcode Problems
 | [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2974-minimum-number-game) |
@@ -358,6 +362,7 @@ Solutions to All the Leetcode Problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2974-minimum-number-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 ## Polygons
 |  |
@@ -411,4 +416,8 @@ Solutions to All the Leetcode Problems
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
