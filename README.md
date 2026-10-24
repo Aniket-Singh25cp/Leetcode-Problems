@@ -161,6 +161,7 @@ Solutions to All the Leetcode Problems
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -194,6 +195,7 @@ Solutions to All the Leetcode Problems
 | [1927-sum-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
