@@ -42,6 +42,7 @@ Solutions to All the Leetcode Problems
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2239-find-closest-number-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
