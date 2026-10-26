@@ -6,6 +6,7 @@ public:
         int dx[] = {-1, 1, 0, 0};
         int dy[] = {0, 0, -1, 1};
         int ans = 0;
+        //Implementing BFS here for finding connected component > 0
         for(int i  = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 if(grid[i][j] > 0 && !visited[i][j]){
