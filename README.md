@@ -58,6 +58,7 @@ Solutions to All the Leetcode Problems
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -306,6 +307,7 @@ Solutions to All the Leetcode Problems
 | [1672-richest-customer-wealth](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -423,4 +425,16 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
