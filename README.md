@@ -13,6 +13,7 @@ Solutions to All the Leetcode Problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -334,6 +335,7 @@ Solutions to All the Leetcode Problems
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -401,6 +403,7 @@ Solutions to All the Leetcode Problems
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
