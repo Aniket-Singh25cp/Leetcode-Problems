@@ -114,6 +114,7 @@ Solutions to All the Leetcode Problems
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Solutions to All the Leetcode Problems
 | [3019-number-of-changing-keys](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sliding Window
 |  |
 | ------- |
