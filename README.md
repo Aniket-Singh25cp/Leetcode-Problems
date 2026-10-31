@@ -128,6 +128,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
@@ -152,6 +153,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -188,6 +190,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0189-rotate-array) |
