@@ -43,6 +43,7 @@ Solutions to All the Leetcode Problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -275,6 +276,7 @@ Solutions to All the Leetcode Problems
 | [0657-robot-return-to-origin](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2974-minimum-number-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
