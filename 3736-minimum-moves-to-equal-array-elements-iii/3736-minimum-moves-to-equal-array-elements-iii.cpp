@@ -6,7 +6,7 @@ public:
             if(x > max) max = x;
         }
         for(int x : nums){
-            minMoves += abs(max - x);
+            minMoves += (max - x);
         }
         return minMoves;
     }
