@@ -27,6 +27,7 @@ Solutions to All the Leetcode Problems
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0682-baseball-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0941-valid-mountain-array) |
@@ -81,6 +82,7 @@ Solutions to All the Leetcode Problems
 | [0367-valid-perfect-square](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -465,4 +467,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
