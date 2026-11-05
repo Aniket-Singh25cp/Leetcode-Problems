@@ -1,7 +1,14 @@
 class Solution {
 public:
     string reversePrefix(string s, int k) {
-        reverse(s.begin(), s.begin() + k);
+        int i = 0, j = k - 1;
+        while(i <= j){
+            int temp = s[i];
+            s[i] = s[j];
+            s[j] = temp;
+            i++;
+            j--;
+        }
         return s;
     }
 };
