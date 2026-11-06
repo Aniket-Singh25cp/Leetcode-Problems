@@ -52,6 +52,7 @@ Solutions to All the Leetcode Problems
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2239-find-closest-number-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -88,6 +89,7 @@ Solutions to All the Leetcode Problems
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Solutions to All the Leetcode Problems
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2540-minimum-common-value](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3794-reverse-string-prefix](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
@@ -152,6 +155,7 @@ Solutions to All the Leetcode Problems
 | [1748-sum-of-unique-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2540-minimum-common-value](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
