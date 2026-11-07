@@ -11,6 +11,7 @@ Solutions to All the Leetcode Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0056-merge-intervals) |
@@ -140,6 +141,7 @@ Solutions to All the Leetcode Problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
