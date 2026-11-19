@@ -55,6 +55,7 @@ Solutions to All the Leetcode Problems
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2614-prime-in-diagonal](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -134,6 +135,7 @@ Solutions to All the Leetcode Problems
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -373,6 +375,7 @@ Solutions to All the Leetcode Problems
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2974-minimum-number-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
