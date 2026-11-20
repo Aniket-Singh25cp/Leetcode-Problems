@@ -33,6 +33,7 @@ Solutions to All the Leetcode Problems
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -373,6 +374,7 @@ Solutions to All the Leetcode Problems
 | [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -441,6 +443,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1051-height-checker) |
 ## Backtracking
 |  |
 | ------- |
@@ -487,4 +490,8 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
