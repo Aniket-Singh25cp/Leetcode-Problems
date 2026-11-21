@@ -26,6 +26,7 @@ Solutions to All the Leetcode Problems
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -154,6 +155,7 @@ Solutions to All the Leetcode Problems
 | [0383-ransom-note](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -325,6 +327,7 @@ Solutions to All the Leetcode Problems
 | [0136-single-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
@@ -373,6 +376,7 @@ Solutions to All the Leetcode Problems
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
