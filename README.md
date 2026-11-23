@@ -16,6 +16,7 @@ Solutions to All the Leetcode Problems
 | [0055-jump-game](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0136-single-number) |
@@ -325,6 +326,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -453,6 +455,7 @@ Solutions to All the Leetcode Problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0078-subsets) |
 ## Game Theory
 |  |
 | ------- |
