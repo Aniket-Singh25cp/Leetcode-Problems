@@ -25,6 +25,7 @@ Solutions to All the Leetcode Problems
 | [0204-count-primes](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -377,6 +378,7 @@ Solutions to All the Leetcode Problems
 | [0217-contains-duplicate](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0645-set-mismatch) |
