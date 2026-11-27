@@ -71,6 +71,7 @@ Solutions to All the Leetcode Problems
 | [3024-type-of-triangle](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
