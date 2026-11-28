@@ -170,6 +170,7 @@ Solutions to All the Leetcode Problems
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
@@ -203,6 +204,7 @@ Solutions to All the Leetcode Problems
 | [2942-find-words-containing-character](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
@@ -349,6 +351,7 @@ Solutions to All the Leetcode Problems
 | [0451-sort-characters-by-frequency](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1748-sum-of-unique-elements](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aniket-Singh25cp/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prime Factorization
 |  |
 | ------- |
